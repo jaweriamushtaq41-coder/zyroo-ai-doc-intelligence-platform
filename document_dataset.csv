@@ -1,0 +1,25 @@
+text,label
+"Invoice Number: INV-1001 Date: 05-01-2026 Company: ABC Technologies Bill To: Ahmed Traders Description: Web Development Services Quantity: 1 Unit Price: 50000 Total Amount: 50000 Payment Due: 20-01-2026",Invoice
+"INVOICE #INV-2045 Date: 12-03-2026 Bill From: Zyroo Solutions Bill To: Khan Enterprises Item: Software License Subtotal: 25000 Tax: 2500 Total: 27500 Payment Terms: Net 15",Invoice
+"Tax Invoice Invoice No: TX-778 Date: 22-02-2026 Vendor: Sakina Collection Customer: Fatima Malik Items: Abaya x2, Hijab x3 Total Amount: 8500 Thank you for your business",Invoice
+"Invoice ID: 3391 Company Name: Bright Future Pvt Ltd Date Issued: 01-04-2026 Client: Noor Fashion House Amount Due: 120000 PKR Payment Method: Bank Transfer Due Date: 15-04-2026",Invoice
+"Receipt / Invoice Company: Arqam Transport Services Invoice Date: 09-08-2026 Billed To: Al-Huda School Fare Charges: 15000 Total Payable: 15000 Status: Unpaid",Invoice
+"Invoice Number 5567 Date 30-05-2026 Company Karachi Traders Description Office Supplies Quantity 10 Unit Price 500 Total Amount 5000 Please remit payment within 30 days",Invoice
+"BILL Invoice#: 908 Date: 18-06-2026 From: TechNova Systems To: Green Valley School Services Rendered: IT Support Total: 35000 GST Included",Invoice
+"Invoice Reference: 4432-A Date: 02-09-2026 Company: ABC Technologies Total Amount: 18000 Payment Status: Paid Thank you for choosing us",Invoice
+"Muhammad Bilal Software Engineer Email: bilal.dev@gmail.com Phone: 0300-1234567 Skills: Python, Java, SQL, Machine Learning Experience: 3 years at TechCorp Education: BS Computer Science, FAST University",Resume
+"Ayesha Khan Email: ayesha.khan99@outlook.com Phone: +92-321-7654321 Objective: Seeking a data analyst role Skills: Excel, Power BI, Python, Pandas Education: BBA, LUMS Experience: Internship at Bank Alfalah",Resume
+"Curriculum Vitae Name: Hassan Raza Contact: hassan.raza@yahoo.com Phone: 0333-9988776 Skills: React, Node.js, MongoDB, Git Work Experience: Frontend Developer at WebWorks Education: BSCS, NUST",Resume
+"Resume Fatima Noor Email: fatima.noor@gmail.com Phone: 0345-1122334 Skills: Graphic Design, Adobe Photoshop, Illustrator, Branding Experience: Freelance Designer 2 years Education: BFA, National College of Arts",Resume
+"Name: Usman Tariq Contact Number: 0301-2233445 Email: usman.tariq@hotmail.com Career Objective: To work as a Data Scientist Skills: Machine Learning, TensorFlow, NLP, SQL Education: MS Data Science, ITU",Resume
+"CV Sana Malik sana.malik@gmail.com 0312-4455667 Skills: Content Writing, SEO, Social Media Marketing Experience: Marketing Executive at BrandHub Education: BBA Marketing, Punjab University",Resume
+"Ali Hamza Email: ali.hamza@gmail.com Phone: 0309-8877665 Skills: C++, Data Structures, Algorithms, Competitive Programming Education: BSCS Final Year FYP: AI-based Kidney Disease Prediction",Resume
+"Resume Zainab Aslam zainab.aslam@outlook.com 0333-1231231 Skills: Nursing, Patient Care, First Aid Experience: Staff Nurse at City Hospital Education: BSN, Aga Khan University",Resume
+"Meeting Minutes Date: 15-07-2026 Attendees: Project Team Agenda: Discuss FYP progress and dataset cleaning Action Items: Complete OCR module by next week Notes: No major blockers reported",Other
+"Weather Forecast for Lahore Today expect partly cloudy skies with a high of 34C and a low of 24C Humidity around 60 percent Light winds expected in the evening",Other
+"Terms and Conditions This agreement is made between the two parties for the purpose of service delivery All disputes shall be resolved through mutual discussion or arbitration",Other
+"Grocery List Milk Eggs Bread Rice Cooking Oil Vegetables Fruits Detergent Toothpaste Shampoo Please buy from the nearby store before evening",Other
+"University Notice All final year students are required to submit their FYP proposal by the end of this month Late submissions will not be entertained Contact the department office for queries",Other
+"Recipe Chicken Biryani Ingredients Rice Chicken Yogurt Onions Spices Cooking Oil Instructions Marinate chicken for one hour then cook with rice on low heat for 30 minutes",Other
+"Event Invitation You are cordially invited to the annual Sakina Collection Eid Exhibition on 20th March at Expo Center Lahore Refreshments will be served",Other
+"Research Article Abstract This paper explores the use of federated learning in healthcare applications focusing on privacy preservation and model accuracy across distributed datasets",Other

@@ -1,0 +1,47 @@
+Dataset: 24 docs | classes: {'Invoice': np.int64(8), 'Resume': np.int64(8), 'Other': np.int64(8)} | 5-fold cross-validation
+
+=== Rule-based baseline ===
+Accuracy : 1.000
+Precision: 1.000 (macro)
+Recall   : 1.000 (macro)
+F1-score : 1.000 (macro)
+Confusion matrix:
+              pred_Invoice  pred_Other  pred_Resume
+true_Invoice             8           0            0
+true_Other               0           8            0
+true_Resume              0           0            8
+
+=== Logistic Regression ===
+Accuracy : 1.000
+Precision: 1.000 (macro)
+Recall   : 1.000 (macro)
+F1-score : 1.000 (macro)
+Confusion matrix:
+              pred_Invoice  pred_Other  pred_Resume
+true_Invoice             8           0            0
+true_Other               0           8            0
+true_Resume              0           0            8
+
+=== Linear SVM ===
+Accuracy : 0.958
+Precision: 0.963 (macro)
+Recall   : 0.958 (macro)
+F1-score : 0.958 (macro)
+Confusion matrix:
+              pred_Invoice  pred_Other  pred_Resume
+true_Invoice             8           0            0
+true_Other               1           7            0
+true_Resume              0           0            8
+
+=== Naive Bayes ===
+Accuracy : 1.000
+Precision: 1.000 (macro)
+Recall   : 1.000 (macro)
+F1-score : 1.000 (macro)
+Confusion matrix:
+              pred_Invoice  pred_Other  pred_Resume
+true_Invoice             8           0            0
+true_Other               0           8            0
+true_Resume              0           0            8
+
+Selected model: Logistic Regression (highest macro F1 = 1.000)
